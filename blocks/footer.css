@@ -17,12 +17,9 @@
   left: -44px;
 }
 
-.footer__columns {
+.footer__content {
   display: flex;
   justify-content: space-between;
-}
-
-.footer__column_content_social {
 }
 
 .footer__logo {
@@ -33,7 +30,7 @@
   z-index: 1;
 }
 
-.footer__column-heading {
+.footer__social-heading {
   line-height: 20px;
   font-weight: bold;
   margin: 0;
